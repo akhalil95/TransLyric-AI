@@ -66,5 +66,5 @@ Though still a work in progress, I’m building this to share the beauty of NFAK
 
 ## Contact
 
-Created by [Your Name].  
+Created by Ayesha.  
 Reach out if you want to chat about music, AI, or collaboration!
