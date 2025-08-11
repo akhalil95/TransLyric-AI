@@ -1,2 +1,11 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Node
+client/node_modules
+client/dist
+
+# Python
+server/venv
+server/__pycache__
+*.pyc
+
+# Env files
+.env
